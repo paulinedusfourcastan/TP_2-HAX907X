@@ -1,1 +1,3 @@
-# TP_2-HAX907X
+# Apprentissage Statistique - TP2 - Arbres
+
+Réalisé par : Dusfour--Castan Pauline 
