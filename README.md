@@ -9,4 +9,4 @@ Ce dépot git contient différents fichiers :
 - un fichier ``.pdf`` qui correspond au compte rendu de ce tp
 
 
-Afin de pouvoir compiler le fichier ``.qmd`` assurez-vous d'avoir installer QUARTO sur votre ordinateur. 
+Afin de pouvoir compiler le fichier ``.qmd`` assurez-vous d'avoir installer QUARTO sur votre ordinateur ainsi qu'une extension PYTHON. 
